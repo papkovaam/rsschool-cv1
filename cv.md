@@ -1,7 +1,7 @@
 Anastasiya Papkova
 ============
 
- ## About Myself:
+## About Myself:
 
   have about 3 years of testing experience, I can test web and mobile applications. I also did automated and load testing.
 
