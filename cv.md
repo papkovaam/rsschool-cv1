@@ -1,11 +1,6 @@
 Anastasiya Papkova
 ============
 
--------------------     ----------------------------
-1 MyAddress                        papkova@gmail.com
-MyTown Minsk                              @papkovaam 
-MyCountry Belarus                      +375292388375
--------------------     ----------------------------
  ## About Myself:
 
   have about 3 years of testing experience, I can test web and mobile applications. I also did automated and load testing.
