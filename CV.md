@@ -6,13 +6,33 @@ Anastasiya Papkova
 MyTown Minsk                              @papkovaam 
 MyCountry Belarus                      +375292388375
 -------------------     ----------------------------
+ ## About Myself:
 
-Education
+  have about 3 years of testing experience, I can test web and mobile applications. I also did automated and load testing.
+
+## Skills and Proficiency:
+* HTML5, CSS3
+* JavaScript Basics
+* Git, GitHub
+* VS Code, IntelliJ IDEA
+* Adobe Photoshop, Illustrator
+
+## Code example:
+```
+$a = 3; 
+$b = 2; 
+$c = $a + $b; 
+`echo $c;`
+```
+
+
+## Education
 ---------
 
 2013-2018
 :   **Linguistic support of intercultural communication**; Institute of Modern Knolage by Shirokov 
-Experience
+
+## Experience
 ----------
 April 2018 -October 2018
 **SmartApp**
